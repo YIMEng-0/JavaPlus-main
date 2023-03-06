@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Agora_Native_SDK_for_Mac_v4.1.1_FULL">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Agora_Native_SDK_for_Mac_v4.1.1_FULL.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/Agora_Native_SDK_for_Mac_v4.1.1_FULL.zip!/" recursive="false" />
+  </library>
+</component>
